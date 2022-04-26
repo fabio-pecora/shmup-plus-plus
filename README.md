@@ -1,0 +1,2 @@
+# shmup-plus-plus
+This is a space battle between the character (hero) and five enemies, all of them with different movements, shapes, materials and shooting. The Hero can take powerups that allows him to shoot with different weapons. The weapons implemented were a blaster, a spread weapon, a laser and a homing missile. The hero has also shield that decrease every collision and that can grouth up if the hero get the power up. I also implemented a very realistic movement making the hero rotate and not only turn to a different direction.
